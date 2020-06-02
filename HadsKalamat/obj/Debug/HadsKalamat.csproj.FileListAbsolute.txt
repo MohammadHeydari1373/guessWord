@@ -1,0 +1,9 @@
+G:\بازی پای گیم\سیشارپ\project\HadsKalamat\bin\Debug\HadsKalamat.exe.config
+G:\بازی پای گیم\سیشارپ\project\HadsKalamat\bin\Debug\HadsKalamat.exe
+G:\بازی پای گیم\سیشارپ\project\HadsKalamat\bin\Debug\HadsKalamat.pdb
+G:\بازی پای گیم\سیشارپ\project\HadsKalamat\obj\Debug\HadsKalamat.csprojResolveAssemblyReference.cache
+G:\بازی پای گیم\سیشارپ\project\HadsKalamat\obj\Debug\HadsKalamat.Form1.resources
+G:\بازی پای گیم\سیشارپ\project\HadsKalamat\obj\Debug\HadsKalamat.Properties.Resources.resources
+G:\بازی پای گیم\سیشارپ\project\HadsKalamat\obj\Debug\HadsKalamat.csproj.GenerateResource.Cache
+G:\بازی پای گیم\سیشارپ\project\HadsKalamat\obj\Debug\HadsKalamat.exe
+G:\بازی پای گیم\سیشارپ\project\HadsKalamat\obj\Debug\HadsKalamat.pdb
